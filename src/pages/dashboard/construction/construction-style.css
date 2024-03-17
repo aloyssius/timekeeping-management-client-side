@@ -1,0 +1,22 @@
+.ant-table-thead .ant-table-cell {
+  /* background-color: #38B6FF !important; */
+  /* color: white !important; */
+}
+
+@media (min-width: 0px) and (max-width: 992px) {
+  .remove-cons-is-mobile {
+    display: block;
+  }
+  .remove-cons-not-mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 999999px) {
+  .remove-cons-is-mobile {
+    display: none;
+  }
+  .remove-cons-not-mobile {
+    display: block;
+  }
+}
