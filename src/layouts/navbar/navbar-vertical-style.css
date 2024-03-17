@@ -1,0 +1,4 @@
+.nav-vertical{
+  overflow-y: auto !important;
+  box-shadow: 0 5px 5px rgba(90, 89, 89, 0.255) !important;
+}
